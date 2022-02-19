@@ -3,8 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SubtoBluecraft?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%FSubtoBluecraft&screen_name=SubtoBluecraft)
 
 ## I'm a YouTuber, Teenager, Developer!!
--🎮 I like playing games
--📺 Making video daily
+> -🎮 I like playing games
+
+> -📺 Making video daily
 
 ### Connect with me:
 
