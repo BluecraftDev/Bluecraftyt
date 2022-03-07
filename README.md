@@ -25,7 +25,14 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
 
+<hr>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Bluecraftyt&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+
 ---
+  
+</p>
+
 
 ### 📺 Latest YouTube Videos
 
@@ -40,15 +47,6 @@
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/AsjadOooO/ddos-attack-tool/issues/1) in [AsjadOooO/ddos-attack-tool](https://github.com/AsjadOooO/ddos-attack-tool)
-2. ❗️ Opened issue [#12](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters/issues/12) in [CTK-WARRIOR/Discord-Bot-For-Starters](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters)
-3. 💪 Opened PR [#11](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters/pull/11) in [CTK-WARRIOR/Discord-Bot-For-Starters](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters)
-<!--END_SECTION:activity-->
 
 </details>
 
