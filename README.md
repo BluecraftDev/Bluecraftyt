@@ -37,9 +37,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Playing Pet sim x and grind coin to hatch pets](https://www.youtube.com/watch?v=S7v6FvPK14A)
 - [Kreekcraft showed Middle finger to fans on stream.](https://www.youtube.com/watch?v=K_7egVh6qLw)
 - [Kreek get caught in 4k](https://www.youtube.com/watch?v=b9cLSWGhtPU)
-- [Playing Pet sim x and grind coin to hatch pets](https://www.youtube.com/watch?v=S7v6FvPK14A)
 - [Run Visual Studio Code on Replit](https://www.youtube.com/watch?v=xKkhWpxsuV0)
 - [how to make your own Minecraft server](https://www.youtube.com/watch?v=X9rKgr_uqPI)
 <!-- YOUTUBE:END -->
