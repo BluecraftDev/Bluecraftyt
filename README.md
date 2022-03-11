@@ -1,5 +1,7 @@
 ### Hi there, I'm Blue - aka Bluecraft 👋 
 
+[![Discord Presence](https://lanyard.cnrad.dev//api/928412310249287691?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/928412310249287691)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/SubtoBluecraft?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%FSubtoBluecraft&screen_name=SubtoBluecraft)
 
 ## I'm a YouTuber, Teenager, Developer!!
