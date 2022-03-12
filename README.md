@@ -1,5 +1,5 @@
 ### Hi there, I'm Blue - aka Bluecraft 👋 
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bluecraftyt.Bluecraftyt)
 [![Discord Presence](https://lanyard.cnrad.dev/api/928412310249287691)](https://discord.com/users/928412310249287691)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SubtoBluecraft?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%FSubtoBluecraft&screen_name=SubtoBluecraft)
@@ -27,14 +27,18 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
 
-<hr>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Bluecraftyt&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-
 ---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bluecraftyt&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluecraftyt&layout=compact)
+---
+
   
 </p>
 
+---
 
 ### 📺 Latest YouTube Videos
 
@@ -48,7 +52,7 @@
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
 
----
+
 
 </details>
 
